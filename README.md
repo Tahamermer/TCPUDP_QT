@@ -3,7 +3,7 @@ A  TCP/UDP socket test interface built with QT5.
 
 ## Usage
 
-Users can select among **TCP server**, **TCP client**, and **UDP** modes in this program.
+Users can select among **TCP server**, TCP client, and UDP modes in this program.
 
 ### TCP Server
 
